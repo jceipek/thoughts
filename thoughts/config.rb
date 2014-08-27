@@ -47,6 +47,9 @@
 #   end
 # end
 
+# for deploying as a subdirectory via github
+set :relative_links, true
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
