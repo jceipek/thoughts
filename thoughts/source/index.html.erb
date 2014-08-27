@@ -1,33 +1,31 @@
 ---
-title: Julian Ceipek - thoughts
+pageable: true
+per_page: 10
 ---
 
 <div class='wrapper'>
-	<div class="centerpiece">
-		<h1>thoughts</h1>
-	</div>
+	<h1>thoughts</h1>
 
-	<article>
-		<header>
-			<h2>Apple</h2>
-			<p>Published: <time pubdate="pubdate">2009-10-09</time></p>
-		</header>
-		<p>The <b>apple</b> is the pomaceous fruit of the apple tree...</p>
-		...
-		<footer>
-			<p><small>Creative Commons Attribution-ShareAlike License</small></p>
-		</footer>
-	</article>
+	<% if paginate && num_pages > 1 %>
+	  <p>Page <%= page_number %> of <%= num_pages %></p>
 
-	<article>
-		<header>
-			<h2>Apple</h2>
-			<p>Published: <time pubdate="pubdate">2009-10-09</time></p>
-		</header>
-		<p>The <b>apple</b> is the pomaceous fruit of the apple tree...</p>
-		...
-		<footer>
-			<p><small>Creative Commons Attribution-ShareAlike License</small></p>
-		</footer>
-	</article>
+	  <% if prev_page %>
+	    <p><%= link_to 'Previous page', prev_page %></p>
+	  <% end %>
+	<% end %>
+
+	<% page_articles.each_with_index do |article, i| %>
+		<article>
+	 		<h2><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></h2>
+			  <!-- use article.summary(250) if you have Nokogiri available to show just
+			       the first 250 characters -->
+	  		<%= article.body %>
+	  	</article>
+	<% end %>
+
+	<% if paginate %>
+	  <% if next_page %>
+	    <p><%= link_to 'Next page', next_page %></p>
+	  <% end %>
+	<% end %>
 </div>

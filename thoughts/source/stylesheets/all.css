@@ -2,7 +2,8 @@
 
 body {
   font-family: sans-serif;
-  font-family: 'Dosis', sans-serif; }
+  font-family: 'Dosis', sans-serif;
+  color: rgb(85, 85, 85); }
 
 .wrapper {
   margin-left: auto;
@@ -19,8 +20,13 @@ article {
   margin-bottom: 1em;
 }
 
+h2 a {
+  text-decoration: none;
+  color: #acacac;
+}
+
 h1 {
-  color: rgba(0, 0, 0, .3);
+  color: #acacac;
   font-weight: normal;
   /*font-weight: bold;*/
   font-size: 2.3em; }
