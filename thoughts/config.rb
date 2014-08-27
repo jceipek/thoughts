@@ -50,14 +50,17 @@
 # for deploying as a subdirectory via github
 set :relative_links, true
 
-set :css_dir, 'thoughts/stylesheets'
-
-set :js_dir, 'thoughts/javascripts'
-
-set :images_dir, 'thoughts/images'
+set :css_dir, '/stylesheets'
+set :js_dir, '/javascripts'
+set :images_dir, '/images'
 
 # Build-specific configuration
 configure :build do
+
+  set :css_dir, 'thoughts/stylesheets'
+  set :js_dir, 'thoughts/javascripts'
+  set :images_dir, 'thoughts/images'
+
   # For example, change the Compass output style for deployment
   # activate :minify_css
 
