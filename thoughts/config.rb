@@ -50,11 +50,11 @@
 # for deploying as a subdirectory via github
 set :relative_links, true
 
-set :css_dir, 'stylesheets'
+set :css_dir, 'thoughts/stylesheets'
 
-set :js_dir, 'javascripts'
+set :js_dir, 'thoughts/javascripts'
 
-set :images_dir, 'images'
+set :images_dir, 'thoughts/images'
 
 # Build-specific configuration
 configure :build do
