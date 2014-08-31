@@ -5,80 +5,24 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2013-12-31T16:00:00-08:00</updated>
+  <updated>2014-08-29T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
   <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/01/01/greet-article2.html"/>
-    <id>http://jceipek.com/articles/2014/01/01/greet-article2.html</id>
-    <published>2013-12-31T16:00:00-08:00</published>
-    <updated>2014-08-26T23:23:16-07:00</updated>
+    <title>Criticism</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/08/30/criticism.html"/>
+    <id>http://jceipek.com/articles/2014/08/30/criticism.html</id>
+    <published>2014-08-29T17:00:00-07:00</published>
+    <updated>2014-08-31T15:31:47-07:00</updated>
     <author>
       <name>Julian Ceipek</name>
     </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/01/01/greet-article.html"/>
-    <id>http://jceipek.com/articles/2014/01/01/greet-article.html</id>
-    <published>2013-12-31T16:00:00-08:00</published>
-    <updated>2014-08-26T23:23:16-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2012/04/02/example-article3.html"/>
-    <id>http://jceipek.com/articles/2012/04/02/example-article3.html</id>
-    <published>2012-04-01T17:00:00-07:00</published>
-    <updated>2014-08-26T23:27:40-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2012/03/01/example-article9.html"/>
-    <id>http://jceipek.com/articles/2012/03/01/example-article9.html</id>
-    <published>2012-02-29T16:00:00-08:00</published>
-    <updated>2014-08-26T23:27:36-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2012/02/01/example-article8.html"/>
-    <id>http://jceipek.com/articles/2012/02/01/example-article8.html</id>
-    <published>2012-01-31T16:00:00-08:00</published>
-    <updated>2014-08-26T23:27:33-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>First Thoughts</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2012/01/06/example-article7.html"/>
-    <id>http://jceipek.com/articles/2012/01/06/example-article7.html</id>
-    <published>2012-01-05T16:00:00-08:00</published>
-    <updated>2014-08-26T23:27:28-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello, world&lt;/p&gt;
+    <content type="html">&lt;p&gt;Design is all about constraints. Designers must be able to work within limitations, and the designs they create guide user interactions.
+Recently, I've been thinking about how the constraints in some systems influence the way we engage with other systems. This idea is tied to the concept of consistency in interaction design. As Norman explains in &lt;a href="http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107"&gt;The Design of Everyday Things&lt;/a&gt;, the conceptual model for how we expect something to behave influences how we interact with it, and we take our knowledge of existing systems with us when we interact with others. Left-clicking in computer apps is a simple example: we expect to left-click to select virtual objects in drawing applications. When we encounter an application that breaks this convention, like &lt;a href="http://blender.org/"&gt;Blender&lt;/a&gt;, we experience what Cooper &lt;a href="http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140"&gt;(The Inmates are Running the Asylum)&lt;/a&gt; calls cognitive friction.
+After witnessing the &lt;a href="http://www.newstatesman.com/future-proof/2014/08/tropes-vs-anita-sarkeesian-passing-anti-feminist-nonsense-critique"&gt;deplorable&lt;/a&gt; &lt;a href="http://www.zenofdesign.com/our-growing-fuckwad-culture-problem/"&gt;behavior&lt;/a&gt; perpetuated by a subset of the people who identify themselves as "Gamers," I spent some time reflecting on the reasons behind their outrage at whom they bafflingly brand "Social Justice Warriors," as if that could possibly be a pejorative.
+I'm certain that part of the problem is simply that old standby, fear of change. However, I think it might also be affected by the the proliferation of binary experiences, both in games and across social media platforms. For many users, the core interaction with the latter is content consumption augmented with an expression of  "thumbs up" or "thumbs down." In many games, players take on the role of an unassailable hero or anti-hero character who is always justified in whatever he (because characters in games are rarely female) does.
+I wonder if the constraints inherent in these experiences have trained people to to view the world in binary, to view criticism as condemnation rather than constructive critique.&lt;/p&gt;
 </content>
   </entry>
 </feed>
