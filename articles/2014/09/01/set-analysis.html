@@ -8,27 +8,14 @@
 
     <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title>Julian Ceipek</title>
+    <title>Set, System Analysis</title>
 
     <link href="/thoughts/stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="/thoughts/stylesheets/all.css" rel="stylesheet" type="text/css" />
     <script src="/thoughts/javascripts/all.js" type="text/javascript"></script>
   </head>
 
-  <body class="index">
-    <div class='wrapper'>
-	<div class="header">
-		<h1>thoughts</h1>
-		<small>because deliberation preceeds action</small>
-	</div>
-
-
-		<article id='2014/09/01-Set-System-Analysis'>
-	 		<h2><a href='#2014/09/01-Set-System-Analysis'>Set, System Analysis</a></h2>
-	 		<!-- <a href="articles/2014/09/01/set-analysis.html">Set, System Analysis</a> -->
-	 		<span class='date'>Sep  1</span>
-			  <!-- use article.summary(250) if you have Nokogiri available to show just
-			       the first 250 characters -->
-			<div class='content'><p>I'm studying how systems work at <a href="http://interactive.usc.edu">USC's Interactive Media and Games Division</a>, and I decided to explore how the design of Set cards is tied to the rules for the game. I initially wrote this with no resources other than a deck of Set cards and a Python interpreter, but I have since amended some of my initial impressions after reading <a href="http://en.wikipedia.org/wiki/Set_(game)">this</a>.</p>
+  <body class="articles articles_2014 articles_2014_09 articles_2014_09_01 articles_2014_09_01_set-analysis">
+    <p>I'm studying how systems work at <a href="http://interactive.usc.edu">USC's Interactive Media and Games Division</a>, and I decided to explore how the design of Set cards is tied to the rules for the game. I initially wrote this with no resources other than a deck of Set cards and a Python interpreter, but I have since amended some of my initial impressions after reading <a href="http://en.wikipedia.org/wiki/Set_(game)">this</a>.</p>
 
 <p>We can use playing cards in myriad ways, including building card castles, throwing cards at targets, using cards to propel projectiles, floating cards down streams ala <a href="http://en.wikipedia.org/wiki/Poohsticks">Poohsticks</a>, laying cards side-by side like dominos, and bending cards to create three dimensional shapes.</p>
 
@@ -77,26 +64,6 @@ While there are <code>511920</code> unique 3-card combinations possible in a dec
 <p>From the diagram above, we can see that we get increasingly diminishing returns in the probability that an initial collection of n cards will contain a Set for <code>n&gt;10</code>. In fact, for <code>n=20</code> and greater, the probability is <code>100%</code>. When <code>n=12</code>, the quantity used in the game of Set, the probability is initially <code>97%</code> (although it quickly drops to about <code>93%</code> as the game progresses and Sets are removed and replaced with new cards from the deck). Furthermore, the average amount of Sets present in a collection increases rapidly with <code>n</code>. For the sake of challenging players to find Sets, <code>n</code> should never be too high, so <code>n=12</code> is a logical choice, although it does sometimes require the addition of new cards from the deck when no Sets are present (the rules to Set call for the addition of three new cards in this situation, which ensures that the amount of face-up cards on the table is always divisible by the amount of cards in a Set). Elegantly, <code>12</code> is <code>4x3</code>, the number of properties multiplied by the number of variants for each property.</p>
 
 <p>Although there are several <a href="http://magliery.com/Set/SetVariants.html">Set variants</a>, I would argue that the cards for Set are perfectly designed to match the primary game for which they were created, and that many of these alterations oppose the simplicity of the core game and/or the design of the cards. For example, the variants frequently call for holding some cards in one's hand, removing cards, or adding betting tokens. Nonetheless, I applaud the ingenuity of the player base.</p>
-</div>
-	  	</article>
-		<article id='2014/08/30-Criticism'>
-	 		<h2><a href='#2014/08/30-Criticism'>Criticism</a></h2>
-	 		<!-- <a href="articles/2014/08/30/criticism.html">Criticism</a> -->
-	 		<span class='date'>Aug 30</span>
-			  <!-- use article.summary(250) if you have Nokogiri available to show just
-			       the first 250 characters -->
-			<div class='content'><p>Design is all about constraints. Designers must be able to work within limitations, and the designs they create guide user interactions.</p>
 
-<p>Recently, I've been thinking about how the constraints in some systems influence the way we engage with other systems. This idea is tied to the concept of consistency in interaction design. As Norman explains in <a href="http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107">The Design of Everyday Things</a>, the conceptual model for how we expect something to behave influences how we interact with it, and we take our knowledge of existing systems with us when we interact with others. Left-clicking in computer apps is a simple example: we expect to left-click to select virtual objects in drawing applications. When we encounter an application that breaks this convention, like <a href="http://blender.org/">Blender</a>, we experience what Cooper <a href="http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140">(The Inmates are Running the Asylum)</a> calls cognitive friction.</p>
-
-<p>After witnessing the <a href="http://www.newstatesman.com/future-proof/2014/08/tropes-vs-anita-sarkeesian-passing-anti-feminist-nonsense-critique">deplorable</a> <a href="http://www.zenofdesign.com/our-growing-fuckwad-culture-problem/">behavior</a> perpetuated by a subset of the people who identify themselves as "Gamers," I spent some time reflecting on the reasons behind their outrage at whom they bafflingly brand "Social Justice Warriors," as if that could possibly be a pejorative.</p>
-
-<p>I'm certain that part of the problem is simply that old standby, fear of change. However, I think it might also be affected by the the proliferation of binary experiences, both in games and across social media platforms. For many users, the core interaction with the latter is content consumption augmented with an expression of  "thumbs up" or "thumbs down." In many games, players take on the role of an unassailable hero or anti-hero character who is always justified in whatever he (because characters in games are rarely female) does.</p>
-
-<p>I wonder if the constraints inherent in these experiences have trained people to to view the world in binary, to view criticism as condemnation rather than constructive critique.</p>
-</div>
-	  	</article>
-
-</div>
   </body>
 </html>
