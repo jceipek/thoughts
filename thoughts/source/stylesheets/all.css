@@ -73,3 +73,7 @@ small {
   margin-bottom: 1em;
   display: block;
 }
+
+img {
+  width: 100%;
+}
