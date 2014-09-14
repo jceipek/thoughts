@@ -8,13 +8,15 @@ What constitutes a _game_? What constitutes _play_?
 
 Philosophers, academics, and game creators have been debating the answers to questions of this ilk for a very long time.
 
-In _Rules of Play_, Katie Salen and Eric Zimmerman describe a game as 
+In _Rules of Play_, Katie Salen and Eric Zimmerman describe a game as
+
 > a system in which players engage in an artificial conflict,
 > defined by rules, that results in a quantifiable outcome.
 
 In _The Definition of Play, The Classification of Games_, Roger Caillois describes play via the properties *Free* (voluntary), *Separate* (with predefined limits of space and time), *Uncertain* (the results are not guaranteed beforehand), *Unproductive* (creating nothing of value during the course of the game and ending in a situation identical to that prior to the beginning of the game), *Governed by Rules*, and *Make-believe*.
 
 Jesper Juul's definition of "game" (from _The Game, the Player, the World: Looking for a Heart of Gameness_) is
+
 > a rule-based formal system with a variable and quantifiable outcome,
 > where different outcomes are assigned different values, the player
 > exerts effort in order to influence the outcome, the player feels
