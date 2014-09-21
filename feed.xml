@@ -5,10 +5,26 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-09-13T17:00:00-07:00</updated>
+  <updated>2014-09-20T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>A "Magic Threshold"</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/09/21/magic-threshold.html"/>
+    <id>http://jceipek.com/articles/2014/09/21/magic-threshold.html</id>
+    <published>2014-09-20T17:00:00-07:00</published>
+    <updated>2014-09-21T13:22:42-07:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;In &lt;em&gt;There is No Magic Circle&lt;/em&gt; (2009), Consalvo argues that games cannot be viewed from a purely structural perspective, that Huizinga's "magic circle" is absurd given its implication that the ordinary rules of everyday life no longer apply within its confines. Instead, we must recognize that the ordinary rules very well do apply "in addition to, in competition with, other rules and in relation to multiple contexts, across varying cultures, and into different groups, legal situations, and homes."&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, I think the concept of a magic circle as a boundary between the mindset for being in a game and outside a game is still very valuable. &lt;em&gt;Context is everything&lt;/em&gt; when it comes to games and play. For example, when we speak of "cat and mouse" games, we mean that the cat is turning what would otherwise be a hunt into a form of play. From the mouse' perspective, there is no game, simply a struggle for everyday survival. In the 1997 film &lt;a href="http://www.imdb.com/title/tt0119174/"&gt;&lt;em&gt;The Game&lt;/em&gt;&lt;/a&gt;, the protagonist participates in an experience that he percieves as a game others are playing with him rather than a game that he is playing.&lt;/p&gt;
+
+&lt;p&gt;As UX designers, I think we need to ensure that the experiences we create respect this distinction by making passage through the &lt;em&gt;magic threshold&lt;/em&gt; and back very clear to our users and players.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On Narrative</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/09/14/on-narrative.html"/>
