@@ -5,10 +5,30 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-09-20T17:00:00-07:00</updated>
+  <updated>2014-09-27T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>The Game Webserial</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/09/28/the-game-webserial.html"/>
+    <id>http://jceipek.com/articles/2014/09/28/the-game-webserial.html</id>
+    <published>2014-09-27T17:00:00-07:00</published>
+    <updated>2014-09-28T13:17:48-07:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;Some of the most enduring online communities gather around &lt;em&gt;webserials&lt;/em&gt; (serialized online fiction like &lt;a href="http://parahumans.wordpress.com/about/"&gt;Worm&lt;/a&gt;), &lt;em&gt;webcomics&lt;/em&gt; (generally serialized online comics like &lt;a href="http://questionablecontent.net/"&gt;Questionable Content&lt;/a&gt;), and &lt;em&gt;web series&lt;/em&gt; (serialized online video series like &lt;a href="http://watchtheguild.com"&gt;The Guild&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;As we traverse the spectrum from static text to the moving image, we see the complexity of authoring these types of experiences increase dramatically, although there isn't as much variation in production times as one might expect. While some webserials update several times a week and some webcomics take &lt;a href="http://dresdencodak.com/2010/06/03/dark-science-01/"&gt;several months to create&lt;/a&gt;, we can also find well-produced video content updated on a &lt;a href="https://www.youtube.com/show/freddiew"&gt;weekly basis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The interactive medium is conspiciously absent from this list. While some &lt;a href="https://www.telltalegames.com"&gt;fantastic episodic games exist&lt;/a&gt;, they are generally released as downloadable titles with months or years between releases. The idea of a single creator or small group regularly releasing games is &lt;a href="http://www.lessmilk.com/12games"&gt;not unheard of&lt;/a&gt;, I know of no serialized online games.&lt;/p&gt;
+
+&lt;p&gt;Will "Game Webserials" ever become popular? What form will the episodic 30 second - 30 minute online game take? Will it be a classic point-and-click adventure with a linear storyline? Will it be a procedural world with new content produced each week? Perhaps something we've never seen before?&lt;/p&gt;
+
+&lt;p&gt;Are the tools we have to create these experiences approachable and advanced enough to make this kind of creation feasible for creators as diverse as those who create more traditional webserials?&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>A "Magic Threshold"</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/09/21/magic-threshold.html"/>
