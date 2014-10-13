@@ -5,10 +5,60 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-10-03T17:00:00-07:00</updated>
+  <updated>2014-10-11T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>Programming vs Games in Discourse</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/10/12/programming-vs-games.html"/>
+    <id>http://jceipek.com/articles/2014/10/12/programming-vs-games.html</id>
+    <published>2014-10-11T17:00:00-07:00</published>
+    <updated>2014-10-12T14:50:23-07:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;The general discussion on the merits of games seems very similar to the general discussion regarding those of programming.&lt;/p&gt;
+
+&lt;h3 id="programming-and-games-as-a-distraction-from-what-is-important"&gt;Programming and Games as a Distraction from "What is Important"&lt;/h3&gt;
+
+&lt;p&gt;"When will you stop playing games and get back to work?"&lt;/p&gt;
+
+&lt;p&gt;We often view games as a distraction, as a 'fun' respite from the cold realities of life and work. This is the mindset that led one of my colleagues to say "I just don't have time for games."&lt;/p&gt;
+
+&lt;p&gt;Nowadays, our technology-saturated culture is so focused on programming as a work-related pursuit that we can find it difficult to draw a parallel with programming, but I think "Stop sitting in front of a computer screen and go outside!" is still a common sentiment.&lt;/p&gt;
+
+&lt;h3 id="gamesprogramming-as-treatment"&gt;Games/Programming as Treatment&lt;/h3&gt;
+
+&lt;p&gt;In &lt;a href="http://worrydream.com/MeanwhileAtCodeOrg/"&gt;&lt;em&gt;meanwhile, at code.org&lt;/em&gt;&lt;/a&gt;, Bret Victor bemoans the corruption of Seymour Papert's thoughts on programming and pedagogy:
+&lt;img alt="Meanwhile" src="/thoughts/images/2014-10-12-programming-vs-games/meanwhile.png" /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Papert's goal was to give children a path to powerful mathematical
+ideas, and he saw programming as a better carrier of the ideas than
+pencil-and-paper.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Others misinterpret him as making the dubious claim that
+&lt;strong&gt;simply learning to program will make you think better&lt;/strong&gt;.
+Papert is astonished that anyone would think he was saying that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Much of the work on &lt;em&gt;gamification of education&lt;/em&gt; takes a similar approach, treating games as a "more fun" or less teacher-intensive method to transmit knowledge through rote memorization and award structures supported by &lt;a href="http://en.wikipedia.org/wiki/Operant_conditioning_chamber"&gt;Skinner box&lt;/a&gt; mechanics.&lt;/p&gt;
+
+&lt;h3 id="gamesprogramming-and-encoded-ideas"&gt;Games/Programming and Encoded Ideas&lt;/h3&gt;
+
+&lt;p&gt;Bret Victor:
+&amp;gt; Papert explains that programming can serve as a medium in which
+&amp;gt; powerful ideas can be brought within reach. But the focus, of course,
+&amp;gt; must be on the powerful ideas, not the programming itself.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href="http://www.arts.rpi.edu/~ruiz/EGDFall10/readings/RhetoricVideoGames_Bogost.pdf"&gt;The Rhetoric of Video Games&lt;/a&gt;, Ian Bogost argues that games represent a powerful way of representing ideas that other media cannot as readily communicate.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the connection between games and programming in discourse isn't truly surprising, because both involve encoding and exploring procedural behavior. In the strictest sense, all games are programs, but that fact is easy to forget because we usually think of programs as computer software while games more readily call to mind social or physical interactions. Nonetheless, I think recognizing something in one domain can help us reconsider our views on the other.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Unstructured Plots?</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/10/04/unstructured-plots.html"/>
@@ -151,66 +201,6 @@ optional and negotiable.&lt;/p&gt;
 &lt;p&gt;Does play truly have to be "unproductive"? What about games that involve creating lasting artifacts and social change?&lt;/p&gt;
 
 &lt;p&gt;Trying to envision experiences that challenge specific definitions seems like a fantastic way to develop games that have yet to be experienced.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Set, System Analysis</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/09/01/set-analysis.html"/>
-    <id>http://jceipek.com/articles/2014/09/01/set-analysis.html</id>
-    <published>2014-08-31T17:00:00-07:00</published>
-    <updated>2014-09-01T22:29:17-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;I'm studying how systems work at &lt;a href="http://interactive.usc.edu"&gt;USC's Interactive Media and Games Division&lt;/a&gt;, and I decided to explore how the design of Set cards is tied to the rules for the game. I initially wrote this with no resources other than a deck of Set cards and a Python interpreter, but I have since amended some of my initial impressions after reading &lt;a href="http://en.wikipedia.org/wiki/Set_(game)"&gt;this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We can use playing cards in myriad ways, including building card castles, throwing cards at targets, using cards to propel projectiles, floating cards down streams ala &lt;a href="http://en.wikipedia.org/wiki/Poohsticks"&gt;Poohsticks&lt;/a&gt;, laying cards side-by side like dominos, and bending cards to create three dimensional shapes.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Set_(game)"&gt;Set&lt;/a&gt; is a simple card game with a deck of 81 standard-size playing cards that are uniquely suited for exactly one purpose that doesn't involve the destruction of the cards: for playing the game of Set.&lt;/p&gt;
-
-&lt;p&gt;One side of each Set card bears the logo of the game on a matte surface, while the other is devoted to one or more large symbols displayed on a glossy white canvas.&lt;/p&gt;
-
-&lt;p&gt;The symbols on any given card can differ in the following ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quantity (each card has one, two, or three symbols)&lt;/li&gt;
-  &lt;li&gt;Color (a given symbol can be green, red, or purple, and all symbols on a card share the same color)&lt;/li&gt;
-  &lt;li&gt;Shading (symbols can be solid-colored, striped in parallel with the longest side of the card, or consist of empty - outlines, and all symbols on a given card share the same shading)&lt;/li&gt;
-  &lt;li&gt;Shape (each symbol on a card is either tilde-shaped, diamond-shaped, or capsule-shaped, and each symbol on a given card has the same shape)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that each of these four properties has exactly three variants, which allows for the &lt;code&gt;3&lt;/code&gt;&lt;sup&gt;&lt;code&gt;4&lt;/code&gt;&lt;/sup&gt;&lt;code&gt;=81&lt;/code&gt; unique cards in the deck.&lt;/p&gt;
-
-&lt;p&gt;Consequently, it would be impossible to play a standard match-2 game with a Set deck; by virtue of having three variants for each property, the game materials are optimized for 3-card combinations. The logo of the game reinforces this notion; it contains a visualization of stacks of three cards with different shading, calling to mind the card properties.
-While there are &lt;code&gt;511920&lt;/code&gt; unique 3-card combinations possible in a deck of Set cards, not all of these combinations can be meaningful. If every 3-card combination with at least one shared property variant were considered a "match," then around &lt;code&gt;36%&lt;/code&gt; of the possible combinations would qualify, which would eliminate much of the depth present in the Set card game. Instead, a match, known as a "Set," occurs when each property varies either entirely or not at all. People playing the game compete to find and collect as many such Sets as possible.&lt;/p&gt;
-
-&lt;p&gt;The following three cards form a Set because they all have the same quantity variant but differ in every other property:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;3-Green-Empty-Tilde&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;3-Purple-Solid-Capsule&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;3-Red-Shaded-Diamond&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These cards do not form a Set because two of the cards have the solid shading variant:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;3-Green-Empty-Tilde&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;3-Purple-Solid-Capsule&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;3-Red-Solid-Diamond&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Only around 1% of the possible 3-card combinations are Sets. However, the probability of discovering a 3-card Set in a collection of &lt;code&gt;n&lt;/code&gt; cards increases quite quickly with &lt;code&gt;n&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;These are the probabilities of a Set in a given collection of &lt;code&gt;n&lt;/code&gt; cards drawn from the deck at random, at the start of the game (determined via numerical simulation in Python, using &lt;code&gt;100,000&lt;/code&gt; samples for each &lt;code&gt;n&lt;/code&gt;-card collection):&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Graph" src="/thoughts/images/2014-09-01-set-analysis/graph.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Card games typically involve cards held in the player's hands, but holding more than seven cards is ungainly, and there is only a 39% chance that seven random cards will contain a Set. Furthermore, the size and position of the symbols on the cards does not afford holding several of them in a hand; doing so obscures the property information which is integral to forming Sets. The cards are clearly designed to be placed face up on a level surface.&lt;/p&gt;
-
-&lt;p&gt;From the diagram above, we can see that we get increasingly diminishing returns in the probability that an initial collection of n cards will contain a Set for &lt;code&gt;n&amp;gt;10&lt;/code&gt;. In fact, for &lt;code&gt;n=20&lt;/code&gt; and greater, the probability is &lt;code&gt;100%&lt;/code&gt;. When &lt;code&gt;n=12&lt;/code&gt;, the quantity used in the game of Set, the probability is initially &lt;code&gt;97%&lt;/code&gt; (although it quickly drops to about &lt;code&gt;93%&lt;/code&gt; as the game progresses and Sets are removed and replaced with new cards from the deck). Furthermore, the average amount of Sets present in a collection increases rapidly with &lt;code&gt;n&lt;/code&gt;. For the sake of challenging players to find Sets, &lt;code&gt;n&lt;/code&gt; should never be too high, so &lt;code&gt;n=12&lt;/code&gt; is a logical choice, although it does sometimes require the addition of new cards from the deck when no Sets are present (the rules to Set call for the addition of three new cards in this situation, which ensures that the amount of face-up cards on the table is always divisible by the amount of cards in a Set). Elegantly, &lt;code&gt;12&lt;/code&gt; is &lt;code&gt;4x3&lt;/code&gt;, the number of properties multiplied by the number of variants for each property.&lt;/p&gt;
-
-&lt;p&gt;Although there are several &lt;a href="http://magliery.com/Set/SetVariants.html"&gt;Set variants&lt;/a&gt;, I would argue that the cards for Set are perfectly designed to match the primary game for which they were created, and that many of these alterations oppose the simplicity of the core game and/or the design of the cards. For example, the variants frequently call for holding some cards in one's hand, removing cards, or adding betting tokens. Nonetheless, I applaud the ingenuity of the player base.&lt;/p&gt;
 </content>
   </entry>
 </feed>
