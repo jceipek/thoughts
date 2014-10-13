@@ -17,7 +17,6 @@ Nowadays, our technology-saturated culture is so focused on programming as a wor
 ###Games/Programming as Treatment
 
 In [_meanwhile, at code.org_](http://worrydream.com/MeanwhileAtCodeOrg/), Bret Victor bemoans the corruption of Seymour Papert's thoughts on programming and pedagogy:
-![Meanwhile](2014-10-12-programming-vs-games/meanwhile.png)
 
 > Papert's goal was to give children a path to powerful mathematical
 > ideas, and he saw programming as a better carrier of the ideas than
