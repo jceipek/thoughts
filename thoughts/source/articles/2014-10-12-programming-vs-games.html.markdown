@@ -31,6 +31,7 @@ Much of the work on _gamification of education_ takes a similar approach, treati
 ###Games/Programming and Encoded Ideas
 
 Bret Victor:
+
 > Papert explains that programming can serve as a medium in which
 > powerful ideas can be brought within reach. But the focus, of course,
 > must be on the powerful ideas, not the programming itself.
