@@ -5,10 +5,36 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-10-11T17:00:00-07:00</updated>
+  <updated>2014-10-25T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>Beyond Defaults: A Philosophy of Learning through Representation</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/10/26/learning-philosophy.html"/>
+    <id>http://jceipek.com/articles/2014/10/26/learning-philosophy.html</id>
+    <published>2014-10-25T17:00:00-07:00</published>
+    <updated>2014-10-26T17:45:51-07:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;I have a personal philosophy that is all about learning: I can't be happy unless I'm doing it.&lt;/p&gt;
+
+&lt;p&gt;This notion is aligned with Raph Coster's arguments in &lt;em&gt;A Theory of Fun for Game Design&lt;/em&gt;; he cites &lt;em&gt;Tic-Tac-Toe&lt;/em&gt; as an example of a game that is only fun for children until they learn to recognize the patterns in the game. Under trivial optimal play, every match will end in a stalemate, and the game becomes boring.&lt;/p&gt;
+
+&lt;p&gt;As media designers, we frequently struggle to create "engaging" content. One simple way to do this is to ensure that everything we create teaches something. Think of all the books we enjoy even more deeply when we reread them. We say things like "there are so many amazing things I missed when I read it the first time."&lt;/p&gt;
+
+&lt;p&gt;This is the essence of "deep", "strategic" play in great games: it's well-accepted that each time we play them, we find new strategies and new meaning in the game mechanics. However, games aren't just about mechanics, they are also about representation through visuals, audio, and other means. It should be obvious that representation and mechanics together influence what we (consciously or not) learn from games.&lt;/p&gt;
+
+&lt;p&gt;In a shooting game, it matters whether the entities we shoot are vicious demons (&lt;em&gt;Doom&lt;/em&gt;, 1993) or unarmed civilians (&lt;em&gt;Hatred&lt;/em&gt;, planned 2015).&lt;/p&gt;
+
+&lt;p&gt;When designing a game, there is a big tendency to rely on defaults, on representations that match unconscious cultural or social stereotypes. The problem with that approach is that the resulting games have a tendency to have white cisgender male characters, to disempower and objectify female characters, and to portray black characters as agents of violence.&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;The Power of Play: The Portrayal and Performance of Race in Video Games&lt;/em&gt;, Everett and Watkins examine some of negative stereotypes reinforced by racial representation in games.&lt;/p&gt;
+
+&lt;p&gt;If we can use representations to teach and games are fun and engaging when we can learn from them, won't games be all the more engaging if the representations in them introduce us to new contexts?&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Programming vs Games in Discourse</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/10/12/programming-vs-games.html"/>
@@ -158,51 +184,6 @@ get back into the gameplay and you're less likely to remember it."&lt;/p&gt;
 &lt;p&gt;Unplanned narratives often emerge from games with large player-bases. The space game &lt;em&gt;Eve Online&lt;/em&gt; is a prime example; it provides a sandbox-like simulation environment with enough constraints that players self-organize to take on roles in many different stories involving themes such as faction conflict, diplomacy, corporate espionage, and piracy.&lt;/p&gt;
 
 &lt;p&gt;It seems to me, however, that very few experiences explore smaller-scale emergent storytelling, especially in the category of single-player computer games with an emphasis on player choice. Some of the best games in this category (such as the fantastic &lt;em&gt;Spelunky&lt;/em&gt;) involve procedurally generated worlds and enemies and explore few emotions unrelated to conquest.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Beyond Definitions</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/09/07/beyond-definitions.html"/>
-    <id>http://jceipek.com/articles/2014/09/07/beyond-definitions.html</id>
-    <published>2014-09-06T17:00:00-07:00</published>
-    <updated>2014-09-07T22:31:54-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;What constitutes a &lt;em&gt;game&lt;/em&gt;? What constitutes &lt;em&gt;play&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p&gt;Philosophers, academics, and game creators have been debating the answers to questions of this ilk for a very long time.&lt;/p&gt;
-
-&lt;p&gt;In &lt;em&gt;Rules of Play&lt;/em&gt;, Katie Salen and Eric Zimmerman describe a game as&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a system in which players engage in an artificial conflict,
-defined by rules, that results in a quantifiable outcome.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In &lt;em&gt;The Definition of Play, The Classification of Games&lt;/em&gt;, Roger Caillois describes play via the properties &lt;em&gt;Free&lt;/em&gt; (voluntary), &lt;em&gt;Separate&lt;/em&gt; (with predefined limits of space and time), &lt;em&gt;Uncertain&lt;/em&gt; (the results are not guaranteed beforehand), &lt;em&gt;Unproductive&lt;/em&gt; (creating nothing of value during the course of the game and ending in a situation identical to that prior to the beginning of the game), &lt;em&gt;Governed by Rules&lt;/em&gt;, and &lt;em&gt;Make-believe&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jesper Juul's definition of "game" (from &lt;em&gt;The Game, the Player, the World: Looking for a Heart of Gameness&lt;/em&gt;) is&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a rule-based formal system with a variable and quantifiable outcome,
-where different outcomes are assigned different values, the player
-exerts effort in order to influence the outcome, the player feels
-attached to the outcome, and the consequences of the activity are
-optional and negotiable.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are so many conflicting definitions that Molleindustria created a &lt;a href="http://www.gamedefinitions.com"&gt;whole site&lt;/a&gt; devoted to game definitions.&lt;/p&gt;
-
-&lt;p&gt;The great variety suggests that it is futile to determine one true meaning for these terms; that they are simply ambiguous and context-dependent.&lt;/p&gt;
-
-&lt;p&gt;However, rather than ignoring them, I think that designers can think of them as artificial constraints to surmount.&lt;/p&gt;
-
-&lt;p&gt;For example, does an experience really have to have a "variable and quantifiable outcome" to be considered a game? Why not try to create an emotionally moving interactive experience that involves an emotional journey but doesn't vary in its outcome?&lt;/p&gt;
-
-&lt;p&gt;Does play truly have to be "unproductive"? What about games that involve creating lasting artifacts and social change?&lt;/p&gt;
-
-&lt;p&gt;Trying to envision experiences that challenge specific definitions seems like a fantastic way to develop games that have yet to be experienced.&lt;/p&gt;
 </content>
   </entry>
 </feed>
