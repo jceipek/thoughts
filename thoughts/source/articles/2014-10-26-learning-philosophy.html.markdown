@@ -1,5 +1,5 @@
 ---
-title: Beyond Defaults: A Philosophy of Learning through Representation
+title: "Beyond Defaults: A Philosophy of Learning through Representation"
 date: 2014-10-26
 tags: learning, games, representation
 ---
