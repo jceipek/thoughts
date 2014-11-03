@@ -5,10 +5,30 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-10-25T17:00:00-07:00</updated>
+  <updated>2014-11-01T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>Games that Invite Change</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/11/02/games-that-invite-change.html"/>
+    <id>http://jceipek.com/articles/2014/11/02/games-that-invite-change.html</id>
+    <published>2014-11-01T17:00:00-07:00</published>
+    <updated>2014-11-02T20:28:47-08:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;The element that substantially differentiates games from other media is the degree to which they enable and encourage audience participation. Games respond when the audience acts. We might say that paintings, film, and novels, also respond, in that each audience member brings a context and set of interpretations to these media forms. However, games are much more dynamic. The best games encourage players to experiment with the mechanics in as many different ways as possible. Jonathan Blow's game design philosophy revolves around guiding players to discover the deep emergent consequences of a simple and elegant ruleset.&lt;/p&gt;
+
+&lt;p&gt;While all games encourage interaction, some actually invite players to explore the consequences of modifying their systems, to add or remove rules and mechanics and to explore the implications of those changes. These games are inherently moddable.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, some games are so compactly designed that changing them effectively would be very difficult. As I discussed &lt;a href="http://jceipek.com/thoughts/#2014/09/01-Set-System-Analysis"&gt;here&lt;/a&gt;, the card game &lt;em&gt;Set&lt;/em&gt; discourages modding because any alterations would oppose the simplicity and elegance of the core system design.&lt;/p&gt;
+
+&lt;p&gt;Recently, I've been working on a creative problem solving card game called &lt;em&gt;Evil Lairs for Dummies&lt;/em&gt;. We designed it to be moddable, to have systems that beg the players to change them to see what will happen. However, we didn't frame the game in a way that invited this type of change; the players felt that they didn't have permission to mod the game.&lt;/p&gt;
+
+&lt;p&gt;In order for a game to truly invite change, I think it needs to be explicitly encouraged by the designers and the game systems.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Beyond Defaults: A Philosophy of Learning through Representation</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/10/26/learning-philosophy.html"/>
@@ -154,36 +174,6 @@ get back into the gameplay and you're less likely to remember it."&lt;/p&gt;
 &lt;p&gt;Nonetheless, I think the concept of a magic circle as a boundary between the mindset for being in a game and outside a game is still very valuable. &lt;em&gt;Context is everything&lt;/em&gt; when it comes to games and play. For example, when we speak of "cat and mouse" games, we mean that the cat is turning what would otherwise be a hunt into a form of play. From the mouse' perspective, there is no game, simply a struggle for everyday survival. In the 1997 film &lt;a href="http://www.imdb.com/title/tt0119174/"&gt;&lt;em&gt;The Game&lt;/em&gt;&lt;/a&gt;, the protagonist participates in an experience that he percieves as a game others are playing with him rather than a game that he is playing.&lt;/p&gt;
 
 &lt;p&gt;As UX designers, I think we need to ensure that the experiences we create respect this distinction by making passage through the &lt;em&gt;magic threshold&lt;/em&gt; and back very clear to our users and players.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On Narrative</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/09/14/on-narrative.html"/>
-    <id>http://jceipek.com/articles/2014/09/14/on-narrative.html</id>
-    <published>2014-09-13T17:00:00-07:00</published>
-    <updated>2014-09-14T12:48:05-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;In 2002, Henry Jenkins published the article &lt;em&gt;Game Design as Narrative Architecture&lt;/em&gt;. In it, he addresses many of my misgivings about the views Jesper Juul expresses in his &lt;em&gt;A Clash Between Games and Narrative&lt;/em&gt; and &lt;em&gt;Games Telling Stories?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In the following decade, we have witnessed the emergence of many innovative experiences that have advanced the state of the art in many of the categories Jenkins proposes.&lt;/p&gt;
-
-&lt;h3 id="transmedia-storytelling"&gt;Transmedia Storytelling&lt;/h3&gt;
-&lt;p&gt;Experience franchises spreading to diverse media is nothing new. Look no further than the superhero characters from comics appearing in books, movies, television, web-series, and games. More interesting is the phenomenon of interactive experiences that transcend media boundaries. A recent example is Google's Ingress, a worldwide multiplayer alternate reality game that enables player participation through smartphone-world interaction, online code breaking, and storytelling/partaking through online videos and social media.&lt;/p&gt;
-
-&lt;h3 id="spatial-narratives"&gt;Spatial Narratives&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Gone Home&lt;/em&gt; is a perfect example of what Jenkins calls a "Memory Palace," a place that players can explore at will, unravelling stories left in narrative fragments throughout a space. While &lt;em&gt;Gone Home&lt;/em&gt; communicates one primary narrative, that of the protagonist's sister, it also contains several tangentially-related story threads involving the other members of the family.&lt;/p&gt;
-
-&lt;h3 id="micronarratives"&gt;Micronarratives&lt;/h3&gt;
-&lt;p&gt;Most modern games, particularly big budget titles, embed many "memorable moments" into their games. Some of these are developed to the extent that they are known as "side-quests," with mostly self-contained, sometimes optional narrative arcs that may enhance the primary storyline or serve as exercises in world-building.&lt;/p&gt;
-
-&lt;p&gt;Punch Drunk's &lt;em&gt;Sleep No More&lt;/em&gt; is particularly notable in this category. It encourages audiences to explore a mass of related but distinct narrative threads at their own pace as they follow actors and explore a physical three story building with maze-like passages.&lt;/p&gt;
-
-&lt;h3 id="emergent-narratives"&gt;Emergent Narratives&lt;/h3&gt;
-&lt;p&gt;Unplanned narratives often emerge from games with large player-bases. The space game &lt;em&gt;Eve Online&lt;/em&gt; is a prime example; it provides a sandbox-like simulation environment with enough constraints that players self-organize to take on roles in many different stories involving themes such as faction conflict, diplomacy, corporate espionage, and piracy.&lt;/p&gt;
-
-&lt;p&gt;It seems to me, however, that very few experiences explore smaller-scale emergent storytelling, especially in the category of single-player computer games with an emphasis on player choice. Some of the best games in this category (such as the fantastic &lt;em&gt;Spelunky&lt;/em&gt;) involve procedurally generated worlds and enemies and explore few emotions unrelated to conquest.&lt;/p&gt;
 </content>
   </entry>
 </feed>
