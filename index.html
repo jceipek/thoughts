@@ -22,6 +22,33 @@
 	</div>
 
 
+		<article id='2014/11/19-Direct-Manipulation-Tool-Construction'>
+	 		<h2><a href='#2014/11/19-Direct-Manipulation-Tool-Construction'>Direct Manipulation Tool Construction</a></h2>
+	 		<!-- <a href="articles/2014/11/19/direct-manipulation-tool-construction.html">Direct Manipulation Tool Construction</a> -->
+	 		<span class='date'>Nov 19</span>
+			  <!-- use article.summary(250) if you have Nokogiri available to show just
+			       the first 250 characters -->
+			<div class='content'><p>I've been busy exchanging skills with my classmates at <a href="http://interactive.usc.edu">USC's graduate Interactive Media and Games Division</a>. I taught Unity programming and learned prop making and baking:</p>
+
+<p><img alt="Skitter Mask" src="/thoughts/images/2014-11-19-direct-manipulation-tool-construction/mask.jpg" /></p>
+
+<p><img alt="Journey Cake" src="/thoughts/images/2014-11-19-direct-manipulation-tool-construction/cake.jpg" /></p>
+
+<p>Both of these arts revolve around direct manipulation; you bend foam and fondant, cut components into the right shape, and use tools to shape your work.</p>
+
+<p>It's important to note that the end result rarely matches the original designs, and that this is a Very Good Thing. Working on physical objects involves many implicit constraints that shape the end result and inspire solutions that would otherwise never have been considered.</p>
+
+<p>This is the power of direct manipulation: constantly getting feedback as you are working and changing your work in response to that feedback. Interfaces (and more generally, systems) without constant feedback are inherently limited to an initial design, which is a problem because, as you work, you often realize that the original design is flawed. For a commonly accepted example of this in software and engineering, consider the derided <a href="http://en.wikipedia.org/wiki/Waterfall_model">Waterfall</a> development technique.</p>
+
+<p>Working with physical materials, I constantly felt the urge to improvise. If I didn't have a tool I thought I would need, I would take a minute or two to create an ad-hoc tool for the specific task I was working on at the time. How can I bend this part into the shape that I want? I can just use a bowl. I'm missing a rolling pin small enough to flatten this gum paste, so I'll use this thin wooden dowel. How can I draw a large perfect circle without a compass? I'll tape two pencils to a wooden board.</p>
+
+<p>I think the ease with which you can construct useful one-off tools through direct manipulation is sorely lacking in the digital space. Yes, some interfaces are scriptable through simple programming languages like Lua and Python, but the barrier to entry is much higher than taping miscellany together. Moreover, since it is so hard to make a tool to begin with, once you have decided to make it, you are much more inclined to waste the time you could have been using to make the thing you were working on by making the tool 'reusable' even if you'll only actually need it once.</p>
+
+<p>The closest analogue I can think of to direct manipulation tool construction in the software space is a recorded macro that can automate repetitive actions. Unfortunately, they are a poor substitute for the flexibility of making your own tools.</p>
+
+<p>While our software involves so little user feedback and so much indirect manipulation of hidden state (see Bret Victor's <a href="http://worrydream.com/LearnableProgramming/">Learnable Programming)</a>), I don't think we can do much better than macros and scripting languages. If you can directly manipulate something, you can have many more opportunities to easily make your own tools. Play <a href="http://euclidthegame.com">Euclid: The Game</a> to get an inkling of what that might be like.</p>
+</div>
+	  	</article>
 		<article id='2014/11/09-Show-me-the-Data-Learning-Math-through-Exploration'>
 	 		<h2><a href='#2014/11/09-Show-me-the-Data-Learning-Math-through-Exploration'>Show me the Data: Learning Math through Exploration</a></h2>
 	 		<!-- <a href="articles/2014/11/09/learning-math-through-exploration.html">Show me the Data: Learning Math through Exploration</a> -->
@@ -253,63 +280,6 @@ optional and negotiable.</p>
 <p>Does play truly have to be "unproductive"? What about games that involve creating lasting artifacts and social change?</p>
 
 <p>Trying to envision experiences that challenge specific definitions seems like a fantastic way to develop games that have yet to be experienced.</p>
-</div>
-	  	</article>
-		<article id='2014/09/01-Set-System-Analysis'>
-	 		<h2><a href='#2014/09/01-Set-System-Analysis'>Set, System Analysis</a></h2>
-	 		<!-- <a href="articles/2014/09/01/set-analysis.html">Set, System Analysis</a> -->
-	 		<span class='date'>Sep  1</span>
-			  <!-- use article.summary(250) if you have Nokogiri available to show just
-			       the first 250 characters -->
-			<div class='content'><p>I'm studying how systems work at <a href="http://interactive.usc.edu">USC's Interactive Media and Games Division</a>, and I decided to explore how the design of Set cards is tied to the rules for the game. I initially wrote this with no resources other than a deck of Set cards and a Python interpreter, but I have since amended some of my initial impressions after reading <a href="http://en.wikipedia.org/wiki/Set_(game)">this</a>.</p>
-
-<p>We can use playing cards in myriad ways, including building card castles, throwing cards at targets, using cards to propel projectiles, floating cards down streams ala <a href="http://en.wikipedia.org/wiki/Poohsticks">Poohsticks</a>, laying cards side-by side like dominos, and bending cards to create three dimensional shapes.</p>
-
-<p><a href="http://en.wikipedia.org/wiki/Set_(game)">Set</a> is a simple card game with a deck of 81 standard-size playing cards that are uniquely suited for exactly one purpose that doesn't involve the destruction of the cards: for playing the game of Set.</p>
-
-<p>One side of each Set card bears the logo of the game on a matte surface, while the other is devoted to one or more large symbols displayed on a glossy white canvas.</p>
-
-<p>The symbols on any given card can differ in the following ways:</p>
-
-<ul>
-  <li>Quantity (each card has one, two, or three symbols)</li>
-  <li>Color (a given symbol can be green, red, or purple, and all symbols on a card share the same color)</li>
-  <li>Shading (symbols can be solid-colored, striped in parallel with the longest side of the card, or consist of empty - outlines, and all symbols on a given card share the same shading)</li>
-  <li>Shape (each symbol on a card is either tilde-shaped, diamond-shaped, or capsule-shaped, and each symbol on a given card has the same shape)</li>
-</ul>
-
-<p>Note that each of these four properties has exactly three variants, which allows for the <code>3</code><sup><code>4</code></sup><code>=81</code> unique cards in the deck.</p>
-
-<p>Consequently, it would be impossible to play a standard match-2 game with a Set deck; by virtue of having three variants for each property, the game materials are optimized for 3-card combinations. The logo of the game reinforces this notion; it contains a visualization of stacks of three cards with different shading, calling to mind the card properties.
-While there are <code>511920</code> unique 3-card combinations possible in a deck of Set cards, not all of these combinations can be meaningful. If every 3-card combination with at least one shared property variant were considered a "match," then around <code>36%</code> of the possible combinations would qualify, which would eliminate much of the depth present in the Set card game. Instead, a match, known as a "Set," occurs when each property varies either entirely or not at all. People playing the game compete to find and collect as many such Sets as possible.</p>
-
-<p>The following three cards form a Set because they all have the same quantity variant but differ in every other property:</p>
-
-<ul>
-  <li><code>3-Green-Empty-Tilde</code></li>
-  <li><code>3-Purple-Solid-Capsule</code></li>
-  <li><code>3-Red-Shaded-Diamond</code></li>
-</ul>
-
-<p>These cards do not form a Set because two of the cards have the solid shading variant:</p>
-
-<ul>
-  <li><code>3-Green-Empty-Tilde</code></li>
-  <li><code>3-Purple-Solid-Capsule</code></li>
-  <li><code>3-Red-Solid-Diamond</code></li>
-</ul>
-
-<p>Only around 1% of the possible 3-card combinations are Sets. However, the probability of discovering a 3-card Set in a collection of <code>n</code> cards increases quite quickly with <code>n</code>.</p>
-
-<p>These are the probabilities of a Set in a given collection of <code>n</code> cards drawn from the deck at random, at the start of the game (determined via numerical simulation in Python, using <code>100,000</code> samples for each <code>n</code>-card collection):</p>
-
-<p><img alt="Graph" src="/thoughts/images/2014-09-01-set-analysis/graph.png" /></p>
-
-<p>Card games typically involve cards held in the player's hands, but holding more than seven cards is ungainly, and there is only a 39% chance that seven random cards will contain a Set. Furthermore, the size and position of the symbols on the cards does not afford holding several of them in a hand; doing so obscures the property information which is integral to forming Sets. The cards are clearly designed to be placed face up on a level surface.</p>
-
-<p>From the diagram above, we can see that we get increasingly diminishing returns in the probability that an initial collection of n cards will contain a Set for <code>n&gt;10</code>. In fact, for <code>n=20</code> and greater, the probability is <code>100%</code>. When <code>n=12</code>, the quantity used in the game of Set, the probability is initially <code>97%</code> (although it quickly drops to about <code>93%</code> as the game progresses and Sets are removed and replaced with new cards from the deck). Furthermore, the average amount of Sets present in a collection increases rapidly with <code>n</code>. For the sake of challenging players to find Sets, <code>n</code> should never be too high, so <code>n=12</code> is a logical choice, although it does sometimes require the addition of new cards from the deck when no Sets are present (the rules to Set call for the addition of three new cards in this situation, which ensures that the amount of face-up cards on the table is always divisible by the amount of cards in a Set). Elegantly, <code>12</code> is <code>4x3</code>, the number of properties multiplied by the number of variants for each property.</p>
-
-<p>Although there are several <a href="http://magliery.com/Set/SetVariants.html">Set variants</a>, I would argue that the cards for Set are perfectly designed to match the primary game for which they were created, and that many of these alterations oppose the simplicity of the core game and/or the design of the cards. For example, the variants frequently call for holding some cards in one's hand, removing cards, or adding betting tokens. Nonetheless, I applaud the ingenuity of the player base.</p>
 </div>
 	  	</article>
 
