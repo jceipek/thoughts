@@ -5,10 +5,63 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-11-18T16:00:00-08:00</updated>
+  <updated>2014-11-22T16:00:00-08:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>The Problem with Video Tutorials</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2014/11/23/video-tutorials.html"/>
+    <id>http://jceipek.com/articles/2014/11/23/video-tutorials.html</id>
+    <published>2014-11-22T16:00:00-08:00</published>
+    <updated>2014-11-24T03:10:17-08:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;I try to spend most of my time learning new things. Some of the things I've been learning most recently include how to bake, how to make props, how to program in Clojurescript, and how to work with Quaternions.&lt;/p&gt;
+
+&lt;p&gt;Since I need to use a lot of software to create interactive media, learning to use software and programming APIs is part of my daily life.&lt;/p&gt;
+
+&lt;p&gt;At the moment, the major software teaching approaches on the internet fall into the following categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Q&amp;amp;A Style Forums&lt;/li&gt;
+  &lt;li&gt;Text Tutorials&lt;/li&gt;
+  &lt;li&gt;Video Tutorials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I really like forum style answers from sites like Stack Overflow because they answer specific questions and are easily searchable. However, because they are so limited in scope, they are rarely effective at providing introductions to techniques; deferring to text or video tutorials for that purpose.&lt;/p&gt;
+
+&lt;p&gt;I like text tutorials because they are easily glanceable. If the tutorial is well-organized, I can easily find the answer to my specific question without having to waste my time by wading through explanations of things I already know. Unfortunately, text is static and can't convey complex visual techniques. Well-chosen and annotated images can help to alleviate this problem, but they can't replace someone actually demonstrating how to do something.&lt;/p&gt;
+
+&lt;p&gt;Demonstration is the selling point of video tutorials. Recording a video of doing something seems much easier than writing a comprehensive explanation. Because of this apparently low barrier to entry, the quantity of video tutorials far outstrips the quantity of other software explanations on the internet. Ultimately, video tutorials have two severe flaws.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;They are not glanceable. Skimming a video of a software demonstration isn't very helpful because the audio is just as or more important than the visuals. Most video player interfaces are designed around watching a video from start to finish. Tutorials do not benefit from this structure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They are easy to structure poorly. While making a well-structured video tutorial is actually much harder than creating a well-structured text tutorial; it just seems easier to get started with a video tutorial: you're just talking to a camera, how hard could that be?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I think the best tutorials and explanations consist of a hybrid of text, video, and interactivity. Using this approach, teachers can create well-structured, glanceable representations that allow learners to experiment in the context of the lesson.&lt;/p&gt;
+
+&lt;p&gt;Bret Victor has created some early experiments in this direction:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://worrydream.com/#!/LearnableProgramming"&gt;http://worrydream.com/#!/LearnableProgramming&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://worrydream.com/#!/MediaForThinkingTheUnthinkable"&gt;http://worrydream.com/#!/MediaForThinkingTheUnthinkable&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://worrydream.com/#!/ScientificCommunicationAsSequentialArt"&gt;http://worrydream.com/#!/ScientificCommunicationAsSequentialArt&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Direct Manipulation Tool Construction</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/11/19/direct-manipulation-tool-construction.html"/>
@@ -153,39 +206,6 @@ must be on the powerful ideas, not the programming itself.&lt;/p&gt;
 &lt;p&gt;In &lt;a href="http://www.arts.rpi.edu/~ruiz/EGDFall10/readings/RhetoricVideoGames_Bogost.pdf"&gt;The Rhetoric of Video Games&lt;/a&gt;, Ian Bogost argues that games represent a powerful way of representing ideas that other media cannot as readily communicate.&lt;/p&gt;
 
 &lt;p&gt;Ultimately, the connection between games and programming in discourse isn't truly surprising, because both involve encoding and exploring procedural behavior. In the strictest sense, all games are programs, but that fact is easy to forget because we usually think of programs as computer software while games more readily call to mind social or physical interactions. Nonetheless, I think recognizing something in one domain can help us reconsider our views on the other.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Unstructured Plots?</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/10/04/unstructured-plots.html"/>
-    <id>http://jceipek.com/articles/2014/10/04/unstructured-plots.html</id>
-    <published>2014-10-03T17:00:00-07:00</published>
-    <updated>2014-10-04T23:15:04-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;At a panel at GDC, Tom Abernathy (Riot Games narrative lead) and Richard Rouse III (designer at Microsoft Game Studios) asserted that plot is "highly overrated" in games, that players are less likely to remember the plots for their favorite games than their favorite movies, and that games should stop pursuing a three act narrative structure in favor of unstructured stories that focus on characters. See &lt;a href="http://www.polygon.com/2014/3/17/5519684/narrative-designers-benefits-of-ditching-the-three-act"&gt;Narrative designers discuss benefits of ditching the three act structure&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Based on my own experiences, the longer and more complex a storyline is, the less likely I am to remember it, especially if it is interrupted by sequences that provide no discernible story progression.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;"Game narrative is almost always extremely spaced out," Abernathy said.
-"There might be ongoing narratives with individual characters, but plot
-twists that come every 90 minutes or so happen right before you are about to
-get back into the gameplay and you're less likely to remember it."&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If all our favorite story games provide 'story' in the form of cutscenes that interrupt gameplay every 90 minutes or so, then yes, it is quite clear that we will have trouble remembering the 'plot' in those games.&lt;/p&gt;
-
-&lt;p&gt;However, I can think of many examples in other media that suffer from the same problem: interrupting main plot progression with convoluted side stories, long-winded descriptions (certain fantasy books are particularly at fault here), long and flashy action sequences (most modern action movies), etc…&lt;/p&gt;
-
-&lt;p&gt;Perhaps the reason players can remember the stories in their favorite movies more readily than in their favorite games is that the games simply employ comparatively poor storytelling techniques.&lt;/p&gt;
-
-&lt;p&gt;The best told stories, regardless of medium, rely on disordering incidents, on frequent character development, on understandable motivations, and on interaction between characters. The stories in games like &lt;em&gt;Portal&lt;/em&gt; and &lt;em&gt;Ghost Trick&lt;/em&gt; are particularly well executed in this regard, and I can remember their plots quite well as a result.&lt;/p&gt;
-
-&lt;p&gt;The improv-heavy role playing game &lt;a href="http://www.bullypulpitgames.com/games/fiasco/"&gt;&lt;em&gt;Fiasco&lt;/em&gt;&lt;/a&gt; makes character interaction part of its core mechanic; it consists of scenes in which players assume the roles of characters attempting to achieve specific goals.&lt;/p&gt;
-
-&lt;p&gt;In cases where we want to tell stories with our media, I think what we really want is &lt;em&gt;more&lt;/em&gt; structure, rather than less.&lt;/p&gt;
 </content>
   </entry>
 </feed>
