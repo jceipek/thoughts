@@ -46,7 +46,8 @@ While becoming proficient at these games is quite challenging, the different way
 
 	Theoretically, LOL has a framework for providing much more relevant feedback than Spelunky because death means respawning back at the base. In fact, LOL does use feedback to manage complexity more effectively than consistency and affordances. LOL displays a death recap modal after every death. While this modal is probably extrordinarily useful to intermediate players, it didn't help me, as a beginner, understand many of my deaths because they were so sudden and revolved around placement as much as on the abilities of the other players. I think LOL beginners would benefit from a death replay similar to Towerfall Ascension, a game that also has very rapid deaths.
 
-	![Death Recap](2014-11-29-managing-complexity/DeathRecap.jpg)
+	![LOL Death Recap](2014-11-29-managing-complexity/DeathRecap.jpg)
+	![Towerfall Death Recap](http://i.imgur.com/zIPk1sU.gif)
 
 
 Spelunky is an original title while League of Legends was inspired by a mod of Warcraft III called Defense of the Ancients. LOL is built around mental models that don't make much sense in the context of a standalone game. Consequently, it would probably be much harder to perfect LOL than to create a much better game by making a completely original MOBA (a path a number of other games have attempted). Nonetheless, I think LOL could be substantially improved with more thought given to consistency, affordances, and feedback while still meeting the needs of its legacy userbase.
