@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://jceipek.com/articles/2014/11/29/managing-complexity.html"/>
     <id>http://jceipek.com/articles/2014/11/29/managing-complexity.html</id>
     <published>2014-11-28T16:00:00-08:00</published>
-    <updated>2014-11-30T23:09:07-08:00</updated>
+    <updated>2014-11-30T23:15:09-08:00</updated>
     <author>
       <name>Julian Ceipek</name>
     </author>
@@ -42,7 +42,7 @@
 
     &lt;p&gt;However, the item shop doesn't use that classification for items. All the items look consistent even though they aren't. Players can switch to the list of all items to see this:&lt;/p&gt;
 
-    &lt;p&gt;&lt;img alt="All Item Shop Items" src="/thoughts/images/2014-11-29-managing-complexity/ItemShopAll.jpg" /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kdELk30I8qE"&gt;&lt;img alt="All Item Shop Items" src="/thoughts/images/2014-11-29-managing-complexity/ItemShopAll.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 
     &lt;p&gt;Since LOL is a fast-paced game of team competition, the only way to make effective item choices is to memorize the descriptions of the items to determine how they work when the game isn't running.&lt;/p&gt;
 
@@ -65,7 +65,7 @@
     &lt;p&gt;Theoretically, LOL has a framework for providing much more relevant feedback than Spelunky because death means respawning back at the base. In fact, LOL does use feedback to manage complexity more effectively than consistency and affordances. LOL displays a death recap modal after every death. While this modal is probably extrordinarily useful to intermediate players, it didn't help me, as a beginner, understand many of my deaths because they were so sudden and revolved around placement as much as on the abilities of the other players. I think LOL beginners would benefit from a death replay similar to Towerfall Ascension, a game that also has very rapid deaths.&lt;/p&gt;
 
     &lt;p&gt;&lt;img alt="LOL Death Recap" src="/thoughts/images/2014-11-29-managing-complexity/DeathRecap.jpg" /&gt;
- &lt;img alt="Towerfall Death Recap" src="http://i.imgur.com/zIPk1sU.gif" /&gt;&lt;/p&gt;
+ &lt;a href="http://towerfallr.tumblr.com"&gt;&lt;img alt="Towerfall Death Recap" src="http://i.imgur.com/zIPk1sU.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
