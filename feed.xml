@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://jceipek.com/articles/2014/11/29/managing-complexity.html"/>
     <id>http://jceipek.com/articles/2014/11/29/managing-complexity.html</id>
     <published>2014-11-28T16:00:00-08:00</published>
-    <updated>2014-11-30T23:05:01-08:00</updated>
+    <updated>2014-11-30T23:09:07-08:00</updated>
     <author>
       <name>Julian Ceipek</name>
     </author>
@@ -64,7 +64,8 @@
 
     &lt;p&gt;Theoretically, LOL has a framework for providing much more relevant feedback than Spelunky because death means respawning back at the base. In fact, LOL does use feedback to manage complexity more effectively than consistency and affordances. LOL displays a death recap modal after every death. While this modal is probably extrordinarily useful to intermediate players, it didn't help me, as a beginner, understand many of my deaths because they were so sudden and revolved around placement as much as on the abilities of the other players. I think LOL beginners would benefit from a death replay similar to Towerfall Ascension, a game that also has very rapid deaths.&lt;/p&gt;
 
-    &lt;p&gt;&lt;img alt="Death Recap" src="/thoughts/images/2014-11-29-managing-complexity/DeathRecap.jpg" /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="LOL Death Recap" src="/thoughts/images/2014-11-29-managing-complexity/DeathRecap.jpg" /&gt;
+ &lt;img alt="Towerfall Death Recap" src="http://i.imgur.com/zIPk1sU.gif" /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
