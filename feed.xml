@@ -5,10 +5,52 @@
   <id>http://jceipek.com/articles</id>
   <link href="http://jceipek.com/articles"/>
   <link href="http://jceipek.com/feed.xml" rel="self"/>
-  <updated>2014-11-28T16:00:00-08:00</updated>
+  <updated>2015-03-09T17:00:00-07:00</updated>
   <author>
     <name>Julian Ceipek</name>
   </author>
+  <entry>
+    <title>No more Excuses!</title>
+    <link rel="alternate" href="http://jceipek.com/articles/2015/03/10/no-more-excuses.html"/>
+    <id>http://jceipek.com/articles/2015/03/10/no-more-excuses.html</id>
+    <published>2015-03-09T17:00:00-07:00</published>
+    <updated>2015-03-10T11:19:03-07:00</updated>
+    <author>
+      <name>Julian Ceipek</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="Descriptions of Girl Gamers, by male and female children" src="/thoughts/images/2015-03-10-no-more-excuses/GirlsAreWhat.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the games industry, games often cater to the imaginary male gamer majority that wants male protagonists in everything they play. Games like &lt;em&gt;Remember Me&lt;/em&gt; are &lt;a href="http://www.joystiq.com/2013/03/20/publishers-rejected-remember-me-because-of-female-lead/"&gt;rejected by publishers&lt;/a&gt; if they have female leads. The &lt;a href="http://www.polygon.com/e3-2014/2014/6/10/5798592/assassins-creed-unity-female-assassins"&gt;"reality of production"&lt;/a&gt; caused the high budget &lt;em&gt;Assassin's Creed Unity&lt;/em&gt; to abandon their plans for female characters in co-op. A 2012 study found that &lt;a href="http://www.theguardian.com/lifeandstyle/the-womens-blog-with-jane-martinson/2013/jun/12/games-industry-problem-female-protagonists"&gt;"Games with a female-only protagonist … [received] only 40% of the marketing budget of male-led games. Less than that, actually."&lt;/a&gt; and consequently didn't sell as well, creating a vicious cycle of less marketing in the future.&lt;/p&gt;
+
+&lt;p&gt;Last week, I attended GDC, the annual Game Developers Conference, for the first time. It was exhausting, exhilarating, and surprising.&lt;/p&gt;
+
+&lt;p&gt;In the midst of panels and lectures on breaking in to the game industry, game engine pricing announcements, and overviews of successful game creation and marketing techniques, a number of speakers targeted awareness and challenging the preconceptions we have about games and the people who make and play them.&lt;/p&gt;
+
+&lt;p&gt;Unexpectedly, my favorite of these was &lt;em&gt;Curiosity, Courage, and Camouflage: Revealing the Gaming Habits of Teen Girls&lt;/em&gt; by Ashly Burch and Rosalind Wiseman.&lt;/p&gt;
+
+&lt;p&gt;Their premise: everything we think about girls and games as an industry is wrong.&lt;/p&gt;
+
+&lt;p&gt;They surveyed 1400 schoolchildren in the 6th through 12th grades (11-18 year olds), 46% female, 50% male, and 4% "prefer not to answer" spread across 39% private, 58% public, and 3% charter schools.&lt;/p&gt;
+
+&lt;p&gt;Wiseman and Burch used a combination of statistics and anecdotes to weave a strong argument for us to make games that are designed for male and female audiences alike.&lt;/p&gt;
+
+&lt;p&gt;For example, while speaking to 700 girls about conflict resolution, Wiseman successfully used imagery from games such as the first person shooter series &lt;em&gt;Call of Duty&lt;/em&gt;. The response from the audience was unexpected: the girls started cheering and high-fiving one another. Girls play more games in more genres than we expect them to:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Games girls play" src="/thoughts/images/2015-03-10-no-more-excuses/GamesGirlsPlay.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Especially in the aftermath of Gamergate, many in the games industry think that the young consumer base is a "boys club," but this is a serious misconception. In fact, the recent controversies in the game world are not even relevant to young audiences, who tend not to read gaming websites except for walkthroughs.
+Boys don't want girls to stop playing games; in fact, they actively want more girls to play the same games they do and already think that they are:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Boys want more girls playing" src="/thoughts/images/2015-03-10-no-more-excuses/BoysWantMoreGirlsPlaying.JPG" /&gt;
+&lt;img alt="Games boys think girls play" src="/thoughts/images/2015-03-10-no-more-excuses/GamesBoysThinkGirlsPlay.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;As far as protagonists in games go, as children get older, &lt;strong&gt;boys don't care&lt;/strong&gt; about their avatar's gender and &lt;strong&gt;girls want more female characters&lt;/strong&gt; to play.&lt;/p&gt;
+
+&lt;p&gt;In general, children would like to see less sexualization in their games; they want characters to be treated with respect. Notably, 61% of 11 year old boys think that there is too much sexual objectification of women in games.&lt;/p&gt;
+
+&lt;p&gt;The main takeaway here is that &lt;strong&gt;we have no more excuses&lt;/strong&gt; not to make more games with strong, non-sexualized female characters. Lots of us have been arguing this for a long time, but now, thanks to Wiseman and Burch, we have lots of actual data with which to convince our teammates, publishers, and marketing executives.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Managing Complexity: Spelunky vs League of Legends</title>
     <link rel="alternate" href="http://jceipek.com/articles/2014/11/29/managing-complexity.html"/>
@@ -191,32 +233,6 @@
 &lt;p&gt;Recently, I've been working on a creative problem solving card game called &lt;em&gt;Evil Lairs for Dummies&lt;/em&gt;. We designed it to be moddable, to have systems that beg the players to change them to see what will happen. However, we didn't frame the game in a way that invited this type of change; the players felt that they didn't have permission to mod the game.&lt;/p&gt;
 
 &lt;p&gt;In order for a game to truly invite change, I think it needs to be explicitly encouraged by the designers and the game systems.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Beyond Defaults: A Philosophy of Learning through Representation</title>
-    <link rel="alternate" href="http://jceipek.com/articles/2014/10/26/learning-philosophy.html"/>
-    <id>http://jceipek.com/articles/2014/10/26/learning-philosophy.html</id>
-    <published>2014-10-25T17:00:00-07:00</published>
-    <updated>2014-10-26T17:45:51-07:00</updated>
-    <author>
-      <name>Julian Ceipek</name>
-    </author>
-    <content type="html">&lt;p&gt;I have a personal philosophy that is all about learning: I can't be happy unless I'm doing it.&lt;/p&gt;
-
-&lt;p&gt;This notion is aligned with Raph Coster's arguments in &lt;em&gt;A Theory of Fun for Game Design&lt;/em&gt;; he cites &lt;em&gt;Tic-Tac-Toe&lt;/em&gt; as an example of a game that is only fun for children until they learn to recognize the patterns in the game. Under trivial optimal play, every match will end in a stalemate, and the game becomes boring.&lt;/p&gt;
-
-&lt;p&gt;As media designers, we frequently struggle to create "engaging" content. One simple way to do this is to ensure that everything we create teaches something. Think of all the books we enjoy even more deeply when we reread them. We say things like "there are so many amazing things I missed when I read it the first time."&lt;/p&gt;
-
-&lt;p&gt;This is the essence of "deep", "strategic" play in great games: it's well-accepted that each time we play them, we find new strategies and new meaning in the game mechanics. However, games aren't just about mechanics, they are also about representation through visuals, audio, and other means. It should be obvious that representation and mechanics together influence what we (consciously or not) learn from games.&lt;/p&gt;
-
-&lt;p&gt;In a shooting game, it matters whether the entities we shoot are vicious demons (&lt;em&gt;Doom&lt;/em&gt;, 1993) or unarmed civilians (&lt;em&gt;Hatred&lt;/em&gt;, planned 2015).&lt;/p&gt;
-
-&lt;p&gt;When designing a game, there is a big tendency to rely on defaults, on representations that match unconscious cultural or social stereotypes. The problem with that approach is that the resulting games have a tendency to have white cisgender male characters, to disempower and objectify female characters, and to portray black characters as agents of violence.&lt;/p&gt;
-
-&lt;p&gt;In &lt;em&gt;The Power of Play: The Portrayal and Performance of Race in Video Games&lt;/em&gt;, Everett and Watkins examine some of negative stereotypes reinforced by racial representation in games.&lt;/p&gt;
-
-&lt;p&gt;If we can use representations to teach and games are fun and engaging when we can learn from them, won't games be all the more engaging if the representations in them introduce us to new contexts?&lt;/p&gt;
 </content>
   </entry>
 </feed>
